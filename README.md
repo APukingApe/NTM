@@ -16,13 +16,13 @@ The external memory allows the NTM to learn algorithmic tasks, that are much har
 
 This repository implements a vanilla NTM in a straight forward way. The following architecture is used:
 
-![NTM Architecture](./images/ntm.png)
+![NTM Architecture](https://github.com/loudinthecloud/pytorch-ntm/blob/master/images/ntm.png)
 
 ### Features
 * Batch learning support
 * Numerically stable
 * Flexible head configuration - use X read heads and Y write heads and specify the order of operation
-* **copy** and **repeat-copy** experiments agree with the paper
+* **Interleave**experiments
 
 ***
 
