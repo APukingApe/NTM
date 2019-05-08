@@ -32,7 +32,7 @@ The **Interleave** task tests the NTM's ability deal with an interleaving proble
 
 ### Training
 
-Training convergence for the **copy task** using 4 different seeds 
+Training convergence for the **Interleave task** using 4 different seeds 
 
 
  The following plot shows the cost per sequence length during training. 
