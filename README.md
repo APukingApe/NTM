@@ -48,10 +48,9 @@ The NTM can be used as a reusable module, currently not packaged though.
 3. pip install -r requirements.txt
 4. You can use plot.py to recreave plots.
 ## Usage
-
-Execute ./train.py 
-        ./plot.py
-        ./error.py
+Execute ./train.py to train data
+        ./plot.py to get the plot after training # or in notebook folder provide a notebook edition.
+        ./error.py to get the error after training
 
 ```
 usage: train.py [-h] [--seed SEED] [--task {copy,repeat-copy}] [-p PARAM]
